@@ -174,9 +174,13 @@ Add information about your blog and click on install.
 
 **NOTE:** The username and password you choose here are for WordPress and not for your server login or MYSQL credentials.
 
+![](./assets/word-6.png)
+
 After installation, a window will appear which will require you to login with th credentials previously created for WordPress.
 
-![](./assets/word-6.png)
+![](./assets/word-7.png)
+
+
 
 
 
