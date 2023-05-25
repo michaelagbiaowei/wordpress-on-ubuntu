@@ -28,7 +28,7 @@ Some of the key features of WordPress are:
 - MYSQL 5.0 or higher: MYSQL is a popular database management system used within PHP environments
 - PHP7.4 or higher which is a general-purpose open-source scripting language and one of the most popular programming languages for web development
 
-## **Install Dependencies**
+## **Step 1: Install Dependencies**
 
 To install PHP and Apache, use following command:
 
@@ -50,7 +50,7 @@ To install PHP and Apache, use following command:
 
 ![](./assets/word-1.png)
 
-## **Install WordPress**
+## **Step 2: Install WordPress**
 
 Create the installation directory and download the file from <a href="http://wordpress.org/"><b>WordPress.org:</b></a> 
 
@@ -60,7 +60,7 @@ Create the installation directory and download the file from <a href="http://wor
 
 ![](./assets/word-2.png)
 
-## **Configure Apache for WordPress**
+## **Step 3: Configure Apache for WordPress**
 
 Create Apache site for WordPress. Create /etc/apache2/sites-available/wordpress.conf with following lines:
 
@@ -96,7 +96,7 @@ Finally, reload apache2 to apply all these changes:
 
 ![](./assets/word-3.png)
 
-## **Configure database**
+## **Step 4: Configure database**
 
 We need to create MySQL database.
 
@@ -137,7 +137,7 @@ Enable MySQL with
 
 ![](./assets/word-4.png)
 
-## **Configure WordPress to connect to the database**
+## **Step 5: Configure WordPress to connect to the database**
 
 To configure WordPress to use this database, copy the sample configuration file to wp-config.php:
 
@@ -163,7 +163,7 @@ Find the following:
     define( 'LOGGED_IN_SALT',   'put your unique phrase here' );
     define( 'NONCE_SALT',       'put your unique phrase here' );
 
-## **Configure WordPress**
+## **Step 6: Configure WordPress**
 
 To complete the installation, go to http://yourpublicipaddress
 
