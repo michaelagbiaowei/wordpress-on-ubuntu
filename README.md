@@ -17,6 +17,7 @@ Some of the key features of WordPress are:
   WordPress is scalable, meaning that it can be used to create websites of any size. Whether you're creating a personal blog or a large corporate website, WordPress can handle it.
 
 - **Community:**
+  
   WordPress has a large and active community of users and developers. This means that there is always help available if you need it, and there are always new features and improvements being developed.
 
 ## **Requirements to install DNS and Mail Server**
