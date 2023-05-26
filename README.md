@@ -20,7 +20,7 @@ Some of the key features of WordPress are:
   
   WordPress has a large and active community of users and developers. This means that there is always help available if you need it, and there are always new features and improvements being developed.
 
-## **Requirements to WordPress**
+## **Requirements to Install WordPress**
 
 - Ubuntu 20.04 0r higher
 - System Requirements 1GB of RAM, 2 CPU Cores, 1 GB of Disk space
